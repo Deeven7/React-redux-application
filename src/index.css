@@ -6,9 +6,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:#f6f5f5;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+form {
+  padding: 40px;
+  margin-top: 60px;
+}
+h5{
+  margin-bottom: 40px;
+}
+
+
+.input-field{
+  margin-bottom: 40px;
 }
